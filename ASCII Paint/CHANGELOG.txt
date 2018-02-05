@@ -1,0 +1,5 @@
+11/22/2017: created draw.cpp file, created screen array
+11/23/2017: created cursor class, added x and y attributes
+11/24/2017: Added curses and screen init properties, added getch cases
+11/25/2017: Started working with color, added moving functions
+11/26/2017: Finished color bugs, finished being able to print anything
